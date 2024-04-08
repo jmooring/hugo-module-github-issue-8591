@@ -1,0 +1,7 @@
+mediaTypes:
+  application/manifest+json:
+    suffixes: [webmanifest]
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
